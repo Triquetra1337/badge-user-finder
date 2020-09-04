@@ -54,5 +54,5 @@ msg.channel.send(asdas)
 })
 
 
-client.login('NjMyODc5NzgzMTUxNDAzMDE4.XaL1Og.5FByA3l0YYQsRkeYte2rRVKRJUo');
+client.login('TOKEN');
 
